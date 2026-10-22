@@ -1,3 +1,4 @@
 # MAC101-Lab-4
 
-## TODO NAME & STUDENT ID
+Jenny Porja
+Student ID #24580972
